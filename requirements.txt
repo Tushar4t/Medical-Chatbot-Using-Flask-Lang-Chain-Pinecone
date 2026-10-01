@@ -1,0 +1,12 @@
+flask
+gunicorn
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq>=0.2.0
+groq>=0.11.0
+langchain-pinecone
+langchain-huggingface
+pinecone-client
+huggingface_hub
