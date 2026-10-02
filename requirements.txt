@@ -10,3 +10,5 @@ langchain-pinecone
 langchain-huggingface
 pinecone-client
 huggingface_hub
+langchain
+langchain-classic
